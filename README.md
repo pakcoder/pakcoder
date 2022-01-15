@@ -4,7 +4,7 @@
 <img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
 
 - 🎓 I have done Bachelor in Computer Science from University of Karachi.
-- 💻 I'm cuurently learning fullstack webdevelopment from freecodecamp and M. Ali Mughal
+- 💻 I'm currently learning fullstack webdevelopment from freecodecamp and M. Ali Mughal
 - 🤝🏻 I have experience in Machine learning, Embeded Systems, Basic Data Science, Web Scrapping and Web Automation for Quality Assurance.
 
 ## My Skills
